@@ -52,6 +52,15 @@
 - learn Responsive design suitable for pc and android both.
 - Created basic homescreen page
 
+
+### Team 19~ Studied About Rest Apis in Djnago Rest Framework
+~ Learned How to use retrofit and volley
+~ Created Authorization(authentication)
+~ Created Front Page(Login and registration) Of our Android Application
+
+
+
+
 ### Team 10
 - Learning some advanced features of java  
 - Prepared logo of the app
